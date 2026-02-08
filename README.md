@@ -87,3 +87,10 @@ These KPIs are structured to support analysis across:
 pip install -r requirements.txt
 streamlit run src/dashboard.py
 
+---
+
+## 👤 Author
+**Durga**  
+Analytics & Machine Learning Engineer  
+Specialized in Reliability, Performance & System Analytics
+
